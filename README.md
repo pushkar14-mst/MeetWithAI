@@ -28,10 +28,6 @@ Whispr is a full-stack AI-powered meeting management platform that helps teams c
 - 🔐 **Secure & Scalable**  
   Firebase Authentication and Firestore enable secure, real-time data sync and user management.
 
-## 📸 Screenshots
-
-> _(Insert your UI screenshots here: Dashboard, Summary Tab, Transcript Tab, etc.)_
-
 ## 🛠️ Developer Highlights
 
 - Chunked audio processing with real-time noise cancellation.
